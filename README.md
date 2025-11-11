@@ -1,3 +1,6 @@
+# Imatge execució
+![programa](https://i.imgur.com/hiDTvP7.png)
+
 
 > Abra esta pagina en [https://lautarorodriguez919.github.io/repte-b/](https://lautarorodriguez919.github.io/repte-b/)
 
